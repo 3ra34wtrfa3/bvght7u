@@ -1,6 +1,6 @@
 {
-    "name": "vmvltrshso",
-    "description": "vmvltrshso",
+    "name": "ice",
+    "description": "ice",
     "keywords": ["vmvltrshso"],
     "env": {
          "PROTOCOL": {
